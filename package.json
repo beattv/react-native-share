@@ -1,5 +1,5 @@
 {
-  "name": "react-native-share",
+  "name": "@beapp/react-native-share",
   "description": "Social share, sending simple data to other apps.",
   "version": "3.7.0",
   "repository": {
